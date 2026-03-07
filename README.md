@@ -22,7 +22,6 @@ const golu = {
   education:  "B.Tech CSE @ Truba Group of Institutes, Bhopal (2023–2027)",
   focus:      ["React.js", "Responsive Design", "REST APIs"],
   lookingFor: "Frontend / Full Stack Internship Opportunities",
-  funFact:    "I turn ☕ coffee into clean, pixel-perfect UI"
 };
 ```
 
