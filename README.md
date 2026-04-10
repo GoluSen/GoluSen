@@ -52,16 +52,15 @@ const golu = {
 
 ## 🚀 Featured Projects
 
-### 🌤️ [JavaScript Weather App](https://github.com/golusen)
-> Live weather forecasts using **OpenWeatherMap API** | Async JS, Fetch API, Error Handling
-- Fetches real-time temperature, humidity & location data
-- Clean responsive UI with loading states & error handling
+### 🌤️ [Finance Tracker App](https://github.com/golusen)
+>   Built a full-featured personal finance management app to track income, expenses, and budgets in real time.
+>    Implemented dynamic chart visualizations for spending breakdowns and monthly trends using component-based architecture.
 
-### ✅ [React To-Do App](https://github.com/golusen)
-> Task management with full **CRUD operations** | React Hooks, Component Architecture
-- Built with `useState` & `useEffect` hooks
-- Reusable component architecture for scalability
-
+### ✅ [QuizCrack App](https://github.com/golusen)
+>  Developed an interactive quiz web app with category selection, difficulty levels, and real-time score tracking
+- Integrated a third-party quiz REST API to fetch dynamic question banks and render them with timed gameplay logic.
+-  Designed a responsive UI with instant feedback, progress indicators, and a results summary screen.
+-  
 ### 💼 [Responsive Portfolio Website](https://github.com/golusen)
 > Personal portfolio with **mobile-first design** | HTML, CSS, JavaScript
 - Cross-browser compatible (Chrome, Firefox, Safari)
