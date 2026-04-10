@@ -60,7 +60,7 @@ const golu = {
 >  Developed an interactive quiz web app with category selection, difficulty levels, and real-time score tracking
 - Integrated a third-party quiz REST API to fetch dynamic question banks and render them with timed gameplay logic.
 -  Designed a responsive UI with instant feedback, progress indicators, and a results summary screen.
--  
+
 ### 💼 [Responsive Portfolio Website](https://github.com/golusen)
 > Personal portfolio with **mobile-first design** | HTML, CSS, JavaScript
 - Cross-browser compatible (Chrome, Firefox, Safari)
