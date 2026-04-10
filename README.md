@@ -52,16 +52,16 @@ const golu = {
 
 ## 🚀 Featured Projects
 
-### 🌤️ [Finance Tracker App](https://github.com/golusen)
+###  [Finance Tracker App](https://github.com/golusen)
 >   Built a full-featured personal finance management app to track income, expenses, and budgets in real time.
 >    Implemented dynamic chart visualizations for spending breakdowns and monthly trends using component-based architecture.
 
-### ✅ [QuizCrack App](https://github.com/golusen)
+###  [QuizCrack App](https://github.com/golusen)
 >  Developed an interactive quiz web app with category selection, difficulty levels, and real-time score tracking
 - Integrated a third-party quiz REST API to fetch dynamic question banks and render them with timed gameplay logic.
 -  Designed a responsive UI with instant feedback, progress indicators, and a results summary screen.
 
-### 💼 [Responsive Portfolio Website](https://github.com/golusen)
+### [Responsive Portfolio Website](https://github.com/golusen)
 > Personal portfolio with **mobile-first design** | HTML, CSS, JavaScript
 - Cross-browser compatible (Chrome, Firefox, Safari)
 - CSS media queries for all screen sizes
